@@ -1,4 +1,4 @@
-import 'package:cuisine/cuisine1.dart';
+//import 'package:cuisine/cuisine1.dart';
 import 'package:cuisine/cuisine2.dart';
 import 'package:flutter/material.dart';
 
